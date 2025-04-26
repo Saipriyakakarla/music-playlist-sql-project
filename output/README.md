@@ -1,6 +1,7 @@
 🎶 Telugu Music Playlist Analysis
 
-A mini data analytics project exploring 100 Telugu movie songs using SQL and Excel. Analyzed trends like songs per movie, year, and director, uncovering insights into Telugu cinema's musical landscape. Part of my journey in the Google Data Analytics Professional Certificate.
+A mini data analytics project exploring 100 Telugu movie songs using SQL and Excel. Analyzed trends like songs per movie, year, and director, uncovering insights into Telugu cinema's musical landscape.
+
 📊 Project Goals
 
 Build a SQL database to store song metadata (title, artist, movie, year).
