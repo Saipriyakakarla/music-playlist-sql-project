@@ -116,4 +116,4 @@ Create an interactive dashboard with Power BI (planned for a future project).
 Add statistical analysis using Python or R.
 
 📬 Get in Touch
-Loved this project? Let’s connect on LinkedIn:  https://github.com/Saipriyakakarla ! I’d love to hear your feedback or discuss data analytics opportunities.
+Loved this project? Let’s connect on LinkedIn:  www.linkedin.com/in/saipriyakakarla ! I’d love to hear your feedback or discuss data analytics opportunities.
