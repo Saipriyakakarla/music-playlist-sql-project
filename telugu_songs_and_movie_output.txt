@@ -1,0 +1,119 @@
+songid	songtitle	artist	movie	yearreleased
+1	Chuttamalle	Anirudh Ravichander	Devara Part 1	2024
+2	Pushpa Pushpa	Nakash Aziz	Pushpa The Rise	2021
+3	Amma Song	Mickey J Meyer	Mahanati	2018
+4	Dosti	DSP	RRR	2022
+5	Nach Nach	Shreya Ghoshal	Acharya	2022
+6	Hamsa Naava	Sukhwinder Singh	Baahubali 2	2017
+7	Samajavaragamana	Sid Sriram	Ala Vaikunthapurramuloo	2020
+8	Butta Bomma	Armaan Malik	Ala Vaikunthapurramuloo	2020
+9	Srivalli	Sid Sriram	Pushpa The Rise	2021
+10	Arey Rey	Mickey J Meyer	Happy Days	2007
+11	Jill Jill Jinga	Mickey J Meyer	Happy Days	2007
+12	Happy Days Rock	Mickey J Meyer	Happy Days	2007
+13	Ya Kundendu	Mickey J Meyer	Happy Days	2007
+14	O My Friend	Mickey J Meyer	Happy Days	2007
+15	Ye Cheekati	Mickey J Meyer	Happy Days	2007
+16	Ossa	Mickey J Meyer	Happy Days	2007
+17	I Hate U	Mickey J Meyer	Happy Days	2007
+18	Yegire Mabbulona	Mickey J Meyer	Happy Days	2007
+19	Nee Kosam	Mickey J Meyer	Happy Days	2007
+20	Chal Chal Re	Mickey J Meyer	Happy Days	2007
+21	Happy	Mickey J Meyer	Happy Days	2007
+22	Arey Rey (Remix)	Mickey J Meyer	Happy Days	2007
+23	Jill Jill Jinga (Remix)	Mickey J Meyer	Happy Days	2007
+24	Nuvve Nuvve	Koti	Nuvve Nuvve	2002
+25	Emaindho Emo	Koti	Nuvve Nuvve	2002
+26	Preminchaka	Koti	Nuvve Nuvve	2002
+27	Oka Oorilo	Koti	Nuvve Nuvve	2002
+28	Chilakamma	Koti	Nuvve Nuvve	2002
+29	Manasuna Manasai	Koti	Nuvve Nuvve	2002
+30	Andhamaina	Koti	Nuvve Nuvve	2002
+31	Nuvvu Nenu	Koti	Nuvve Nuvve	2002
+32	Emaindho Emo (Remix)	Koti	Nuvve Nuvve	2002
+33	Preminchaka (Remix)	Koti	Nuvve Nuvve	2002
+34	Oka Oorilo (Remix)	Koti	Nuvve Nuvve	2002
+35	Chilakamma (Remix)	Koti	Nuvve Nuvve	2002
+36	Manasuna Manasai (Remix)	Koti	Nuvve Nuvve	2002
+37	Andhamaina (Remix)	Koti	Nuvve Nuvve	2002
+38	Inka Edho	G. V. Prakash Kumar	Darling	2010
+39	Hosaare Hosaare	Ranjith	Darling	2010
+40	Neeve Na Neeve Na	Srinivas	Darling	2010
+41	Chilipiga	Karthik	Darling	2010
+42	Inka Edho (Remix)	G. V. Prakash Kumar	Darling	2010
+43	Hosaare Hosaare (Remix)	Ranjith	Darling	2010
+44	Neeve Na Neeve Na (Remix)	Srinivas	Darling	2010
+45	Chilipiga (Remix)	Karthik	Darling	2010
+46	Darling	G. V. Prakash Kumar	Darling	2010
+47	Neeve Na	G. V. Prakash Kumar	Darling	2010
+48	Inka Edho (Sad)	G. V. Prakash Kumar	Darling	2010
+49	Hosaare Hosaare (Sad)	Ranjith	Darling	2010
+50	Neeve Na Neeve Na (Sad)	Srinivas	Darling	2010
+51	Chilipiga (Sad)	Karthik	Darling	2010
+52	Mr. Perfect	Rita Thyagarajan, Devi Sri Prasad	Arya 2	2009
+53	Uppenantha	Devi Sri Prasad, KK	Arya 2	2009
+54	Baby He Loves You	Devi Sri Prasad	Arya 2	2009
+55	Ringa Ringa	Devi Sri Prasad, Priya Hemesh	Arya 2	2009
+56	Karige Loga	Devi Sri Prasad, Kunal Ganjawala	Arya 2	2009
+57	My Love Is Gone	Devi Sri Prasad	Arya 2	2009
+58	Karige Loga (D Plugged)	Devi Sri Prasad	Arya 2	2009
+59	Mr. Perfect (Remix)	Rita Thyagarajan, Devi Sri Prasad	Arya 2	2009
+60	Uppenantha (Remix)	Devi Sri Prasad, KK	Arya 2	2009
+61	Baby He Loves You (Remix)	Devi Sri Prasad	Arya 2	2009
+62	Ringa Ringa (Remix)	Devi Sri Prasad, Priya Hemesh	Arya 2	2009
+63	Karige Loga (Remix)	Devi Sri Prasad, Kunal Ganjawala	Arya 2	2009
+64	My Love Is Gone (Remix)	Devi Sri Prasad	Arya 2	2009
+65	Karige Loga (D Plugged Remix)	Devi Sri Prasad	Arya 2	2009
+66	Nuvvunte	Sagar, Sumangaly	Arya	2004
+67	Feel My Love	Devi Sri Prasad	Arya	2004
+68	Aa Ante Amalapuram	Devi Sri Prasad	Arya	2004
+69	O My Love	Devi Sri Prasad	Arya	2004
+70	Nuvvunte (Remix)	Sagar, Sumangaly	Arya	2004
+71	Feel My Love (Remix)	Devi Sri Prasad	Arya	2004
+72	Aa Ante Amalapuram (Remix)	Devi Sri Prasad	Arya	2004
+73	O My Love (Remix)	Devi Sri Prasad	Arya	2004
+74	Nuvvunte (Sad)	Sagar, Sumangaly	Arya	2004
+75	Feel My Love (Sad)	Devi Sri Prasad	Arya	2004
+76	Aa Ante Amalapuram (Sad)	Devi Sri Prasad	Arya	2004
+77	O My Love (Sad)	Devi Sri Prasad	Arya	2004
+78	Nuvvunte (Duet)	Sagar, Sumangaly	Arya	2004
+79	Feel My Love (Duet)	Devi Sri Prasad	Arya	2004
+80	Sye	Mani Sharma	Sye	2004
+81	Ra Ra Raju	Mani Sharma	Sye	2004
+82	Neeli Neeli	Mani Sharma	Sye	2004
+83	Sye (Remix)	Mani Sharma	Sye	2004
+84	Ra Ra Raju (Remix)	Mani Sharma	Sye	2004
+85	Neeli Neeli (Remix)	Mani Sharma	Sye	2004
+86	Sye (Sad)	Mani Sharma	Sye	2004
+87	Ra Ra Raju (Sad)	Mani Sharma	Sye	2004
+88	Neeli Neeli (Sad)	Mani Sharma	Sye	2004
+89	Sye (Duet)	Mani Sharma	Sye	2004
+90	Ra Ra Raju (Duet)	Mani Sharma	Sye	2004
+91	Neeli Neeli (Duet)	Mani Sharma	Sye	2004
+92	Sye (Instrumental)	Mani Sharma	Sye	2004
+93	Ra Ra Raju (Instrumental)	Mani Sharma	Sye	2004
+94	Kundanapu Bomma	Benny Dayal, Kalyani	Ye Maaya Chesave	2010
+95	Manasaa	Devan, Chinmayi Sripada	Ye Maaya Chesave	2010
+96	Swaasye	Karthik	Ye Maaya Chesave	2010
+97	Ee Hridayam	Vijay Prakash, Suzanne D'Mello	Ye Maaya Chesave	2010
+98	Aakaasam	A.R. Rahman	Ye Maaya Chesave	2010
+99	Vintunnavaa	Karthik, Shreya Ghoshal	Ye Maaya Chesave	2010
+100	Aaromale	A.R. Rahman	Ye Maaya Chesave	2010
+
+
+Query #2 Execution time: 0.2ms
+moviename	director	genre	boxofficerevenue
+Ala Vaikunthapurramuloo	Trivikram Srinivas	Action Drama	262
+Arya	Sukumar	Romance	30
+Arya 2	Sukumar	Action Romance	40
+Darling	A. Karunakaran	Romance	35
+Devara Part 1	Koratala Siva	Action	350
+Happy Days	Sekhar Kammula	Drama	25
+Nuvve Nuvve	Trivikram Srinivas	Romance	20
+Pushpa The Rise	Sukumar	Action	373
+RRR	S.S. Rajamouli	Action Drama	1230
+Sye	S.S. Rajamouli	Sports Drama	15
+Ye Maaya Chesave	Gautham Menon	Romance	30
+Acharya	Koratala Siva	Action	120
+Baahubali 2	S.S. Rajamouli	Action Epic	1810
+Mahanati	Nag Ashwin	Biographical Drama	83
