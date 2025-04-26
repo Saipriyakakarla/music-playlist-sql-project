@@ -1,4 +1,4 @@
-# 🎶 Telugu Music Playlist Analysis
+# 🎶 Music Playlist Analysis
 
 ![Project Banner](output/project_banner.png)
 
