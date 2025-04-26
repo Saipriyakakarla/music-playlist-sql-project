@@ -1,6 +1,7 @@
 # 🎶 Telugu Music Playlist Analysis
 
-![Project Banner](output/project_banner.png)
+![Project Banner](https://github.com/user-attachments/assets/a77328c6-7073-483b-bae0-fc15e093d105)
+
 
 A mini data analytics project exploring 100 Telugu movie songs using **SQL** and **Excel**. Analyzed trends like songs per movie, year, and director, uncovering insights into Telugu cinema's musical landscape. Part of my journey in the Google Data Analytics Professional Certificate.
 
@@ -67,9 +68,13 @@ A mini data analytics project exploring 100 Telugu movie songs using **SQL** and
      ```
 3. **Visualization**:
    - Built Excel charts: Songs per Movie, Songs by Year, Box Office Trends.
-   - ![Songs per Movie](output/songs_per_movie_top10.png)
-   - ![Songs by Year](output/songs_per_year_top10.png)
-   - ![Box Office Revenue](output/box_office_revenue.png)
+   - ![Songs per Movie]![songs_per_movie](https://github.com/user-attachments/assets/746390ae-ec93-47fd-a7d4-a7a5d6e87f27)
+
+
+   - ![Songs by year]![songs_per_year](https://github.com/user-attachments/assets/57b3b8f3-73dc-4327-a6f1-07d66f460ab8)
+
+   - ![Box Office Revenue]![box_office_revenue](https://github.com/user-attachments/assets/5e107f9c-e9ae-4028-b621-0ade36371eff)
+
 
 ## 💡 Key Insights
 - **Top Movies**: *Arya 2*, *Darling*, and *Devara Part 1* lead with 14 songs each.
