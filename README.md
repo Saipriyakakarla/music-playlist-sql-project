@@ -1,6 +1,6 @@
-# 🎶 Telugu Music Playlist Analysis
+# 🎶 Music Playlist Analysis
 
-![Project Banner](https://github.com/user-attachments/assets/a77328c6-7073-483b-bae0-fc15e093d105)
+![Music Playlist Analysis](https://github.com/user-attachments/assets/89bc6f41-0629-4d7f-bfb2-08e400b9e1d1)
 
 
 A mini data analytics project exploring 100 Telugu movie songs using **SQL** and **Excel**. Analyzed trends like songs per movie, year, and director, uncovering insights into Telugu cinema's musical landscape. 
