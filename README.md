@@ -83,7 +83,7 @@ A mini data analytics project exploring 100 Telugu movie songs using **SQL** and
 
 ## 🛡️ Challenges and Solutions
 - **Challenge**: Filtering top 10 movies in Excel Pivot Table included ties (e.g., 7 movies with 14 songs).
-- **Solution**: Manually adjusted filters to limit to 10 rows, ensuring clarity in visualizations.
+- **Solution**: Manually adjusted filters, ensuring clarity in visualizations.
 - **Challenge**: Total song count was initially 96 instead of 100.
 - **Solution**: Removed duplicates in Excel and re-exported data from DB Fiddle.
 
