@@ -1,4 +1,5 @@
 ## 🎶 Music Playlist Analysis
+![Telugu Music Playlist Analysis](https://github.com/user-attachments/assets/1c5a3ed8-15cc-488b-8cf8-01d237e57d41)
 
 A mini data analytics project exploring 100 Telugu movie songs using SQL and Excel. Analyzed trends like songs per movie, year, and director, uncovering insights into Telugu cinema's musical landscape.
 
@@ -78,7 +79,7 @@ Box Office Trends
 ## 💡 Key Insights
 
 - **Top Movies**: *Arya 2*, *Darling*, and *Devara Part 1* lead with 14 songs each.
-- **Director Trends**: Sukumar has the most songs (28), followed by S.S. Rajamouri (16).
+- **Director Trends**: Sukumar has the most songs (28), followed by S.S. Rajamouli (16).
 - **Genre Insights**: Romance movies dominate with 35 songs, reflecting a musical trend.
 
 ## 🛡️ Challenges and Solutions
