@@ -101,7 +101,7 @@ songid	songtitle	artist	movie	yearreleased
 100	Aaromale	A.R. Rahman	Ye Maaya Chesave	2010
 
 
-Query #2 Execution time: 0.2ms
+
 moviename	director	genre	boxofficerevenue
 Ala Vaikunthapurramuloo	Trivikram Srinivas	Action Drama	262
 Arya	Sukumar	Romance	30
